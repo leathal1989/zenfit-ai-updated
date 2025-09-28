@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ZenFit AI</string>
+    <string name="welcome_message">Welcome to ZenFit AI</string>
+    <string name="fitness_coach">AI Fitness Coach</string>
+    <string name="meditation">AI Meditation</string>
+    <string name="nutrition">Smart Nutrition</string>
+    <string name="ai_coach">AI Health Coach</string>
+    
+    <!-- Fitness strings -->
+    <string name="start_workout">Start Workout</string>
+    <string name="workout_duration">Duration: %1$s minutes</string>
+    <string name="calories_burned">Calories: %1$d</string>
+    <string name="ai_form_correction">AI Form Correction</string>
+    
+    <!-- Meditation strings -->
+    <string name="start_meditation">Start Meditation</string>
+    <string name="meditation_duration">%1$s minutes</string>
+    <string name="ai_voice_generation">AI Voice Generation</string>
+    
+    <!-- Nutrition strings -->
+    <string name="track_meal">Track Meal</string>
+    <string name="ai_meal_suggestions">AI Meal Suggestions</string>
+    <string name="calorie_goal">Daily Goal: %1$d cal</string>
+    
+    <!-- AI Coach strings -->
+    <string name="ask_ai_coach">Ask AI Coach</string>
+    <string name="personalized_insights">Personalized Insights</string>
+    
+    <!-- Subscription strings -->
+    <string name="premium_features">Premium Features</string>
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+    <string name="premium_price">$9.99/month</string>
+    <string name="premium_plus_price">$19.99/month</string>
+    
+</resources>
