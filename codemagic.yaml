@@ -1,0 +1,14 @@
+workflows:
+  android-workflow:
+    name: Android Workflow
+    environment:
+      java: 17
+    scripts:
+      - name: Set gradlew permissions
+        script: |
+          chmod +x gradlew
+      - name: Build debug AAB
+        script: |
+          ./gradlew bundleDebug
+    artifacts:
+      - app/build/outputs/**/*.aab
